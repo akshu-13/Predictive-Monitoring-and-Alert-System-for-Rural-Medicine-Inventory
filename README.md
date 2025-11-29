@@ -1,2 +1,7 @@
 # Predictive-Monitoring-and-Alert-System-for-Rural-Medicine-Inventory
 The main objective of this project is to develop an ML-based system that can accurately forecast medicine shortages in rural health centers. By analyzing historical medicine usage data, the system will identify patterns and trends to predict future demand. This prediction enables healthcare workers to plan ahead and prevent stockouts. 
+Key features :
+-> Alert system
+-> Redistribution logic
+-> Predictive analysis (LSTM,Random Forest,XG Boost,Linear Regression)
+-> Hospital staff/member management by admin
